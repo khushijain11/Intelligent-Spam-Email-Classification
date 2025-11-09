@@ -73,13 +73,6 @@ To use the Spam Mail Classification app, follow these steps:
    http://127.0.0.1:5000/
    ```
 
-## Author
-
-- **Niladri Chatterjee**
-
-### Contributors
-
-- Niladri Chatterjee - If others have contributed to this project, consider adding their names here.
 
 ## License
 
